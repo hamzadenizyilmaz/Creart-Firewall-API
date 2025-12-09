@@ -1,6 +1,12 @@
 # Creart-Firewall API v1.2.0
 
-[![npm version](https://img.shields.io/npm/v/creart-api-firewall.svg)](https://www.npmjs.com/package/creart-api-firewall) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Node.js Version](https://img.shields.io/badge/node-%3E%3D22.0-brightgreen)](https://nodejs.org) [![Downloads](https://img.shields.io/npm/dm/creart-api-firewall.svg)](https://www.npmjs.com/package/creart-api-firewall) [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/hamzadenizyilmaz/Creart-Firewall-API) [![Last Commit](https://img.shields.io/github/last-commit/hamzadenizyilmaz/Creart-Firewall-API)](https://github.com/hamzadenizyilmaz/Creart-Firewall-API)
+[![npm version](https://img.shields.io/npm/v/creart-api-firewall.svg)](https://www.npmjs.com/package/creart-api-firewall) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Node.js Version](https://img.shields.io/badge/node-%3E%3D22.0-brightgreen)](https://nodejs.org) [![Downloads](https://img.shields.io/npm/dm/creart-api-firewall.svg)](https://www.npmjs.com/package/creart-api-firewall) [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/hamzadenizyilmaz/Creart-Firewall-API) [![Last Commit](https://img.shields.io/github/last-commit/hamzadenizyilmaz/Creart-Firewall-API)](https://github.com/hamzadenizyilmaz/Creart-Firewall-API)![](https://img.shields.io/github/license/hamzadenizyilmaz/Upcast)
+![](https://img.shields.io/github/repo-size/hamzadenizyilmaz/Upcast)
+![](https://img.shields.io/github/commit-activity/m/hamzadenizyilmaz/Upcast)
+![](https://img.shields.io/github/last-commit/hamzadenizyilmaz/Upcast)
+![](https://img.shields.io/github/languages/top/hamzadenizyilmaz/Upcast)
+![](https://img.shields.io/github/issues/hamzadenizyilmaz/Upcast)
+![](https://img.shields.io/github/issues-pr/hamzadenizyilmaz/Upcast)
 
 **Advanced Linux firewall management API for Node.js** - Manage UFW, iptables, and system monitoring with a simple, powerful API.
 
